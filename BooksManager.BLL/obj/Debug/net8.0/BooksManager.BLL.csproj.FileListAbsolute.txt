@@ -1,0 +1,15 @@
+D:\projects\JSB\01- Filteration Task\BooksManager\BooksManager\BooksManager.BLL\bin\Debug\net8.0\BooksManager.BLL.deps.json
+D:\projects\JSB\01- Filteration Task\BooksManager\BooksManager\BooksManager.BLL\bin\Debug\net8.0\BooksManager.BLL.dll
+D:\projects\JSB\01- Filteration Task\BooksManager\BooksManager\BooksManager.BLL\bin\Debug\net8.0\BooksManager.BLL.pdb
+D:\projects\JSB\01- Filteration Task\BooksManager\BooksManager\BooksManager.BLL\obj\Debug\net8.0\BooksManager.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\JSB\01- Filteration Task\BooksManager\BooksManager\BooksManager.BLL\obj\Debug\net8.0\BooksManager.BLL.AssemblyInfoInputs.cache
+D:\projects\JSB\01- Filteration Task\BooksManager\BooksManager\BooksManager.BLL\obj\Debug\net8.0\BooksManager.BLL.AssemblyInfo.cs
+D:\projects\JSB\01- Filteration Task\BooksManager\BooksManager\BooksManager.BLL\obj\Debug\net8.0\BooksManager.BLL.csproj.CoreCompileInputs.cache
+D:\projects\JSB\01- Filteration Task\BooksManager\BooksManager\BooksManager.BLL\obj\Debug\net8.0\BooksManager.BLL.dll
+D:\projects\JSB\01- Filteration Task\BooksManager\BooksManager\BooksManager.BLL\obj\Debug\net8.0\refint\BooksManager.BLL.dll
+D:\projects\JSB\01- Filteration Task\BooksManager\BooksManager\BooksManager.BLL\obj\Debug\net8.0\BooksManager.BLL.pdb
+D:\projects\JSB\01- Filteration Task\BooksManager\BooksManager\BooksManager.BLL\obj\Debug\net8.0\ref\BooksManager.BLL.dll
+D:\projects\JSB\01- Filteration Task\BooksManager\BooksManager\BooksManager.BLL\bin\Debug\net8.0\BooksManager.DAL.dll
+D:\projects\JSB\01- Filteration Task\BooksManager\BooksManager\BooksManager.BLL\bin\Debug\net8.0\BooksManager.DAL.pdb
+D:\projects\JSB\01- Filteration Task\BooksManager\BooksManager\BooksManager.BLL\obj\Debug\net8.0\BooksManager.BLL.csproj.AssemblyReference.cache
+D:\projects\JSB\01- Filteration Task\BooksManager\BooksManager\BooksManager.BLL\obj\Debug\net8.0\BooksMan.06A01DF0.Up2Date
